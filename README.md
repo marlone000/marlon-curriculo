@@ -1,5 +1,5 @@
 # marlon salvino dos paços
- ## marlonsalvino71@gmail.com
+ ## marlonsalvino71@gmail.com (19)99497-5472
  
  > "Conhecer a dor nos ajuda crescer, a amadurecer. E crescer significa ser capaz de pensar e tomar decisões próprias." - Pain-Nagato
  ![alt text](pain.png)
