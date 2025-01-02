@@ -6,7 +6,7 @@
 ---
 ### Objetivo: Dev Front-end
 - Quero fazer parte da nova geração de devs 
-- Aprender cada vez mais e adiquirir conhecimento
+- Aprender cada vez mais e adquirir conhecimento
  ---
 ### Escolaridade 
  - Técnico em informática, Senac Americana [2023 - 2025]
