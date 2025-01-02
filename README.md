@@ -4,7 +4,7 @@
  > "Conhecer a dor nos ajuda crescer, a amadurecer. E crescer significa ser capaz de pensar e tomar decisões próprias." - Pain-Nagato
  ![alt text](pain.png)
 ---
-### Objetivo: Dev Full-Stack
+### Objetivo: Dev Front-end
 - Quero fazer parte da nova geração de devs 
 - Aprender cada vez mais e adiquirir conhecimento
  ---
